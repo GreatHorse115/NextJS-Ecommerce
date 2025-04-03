@@ -2,6 +2,7 @@ import mongoose from "mongoose";
 import User from './User';
 import Product from "./Product";
 
+//Update CarSchema
 const CartSchema = new mongoose.Schema({
     userID: {
         type: mongoose.Schema.Types.ObjectId,

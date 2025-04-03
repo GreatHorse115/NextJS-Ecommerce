@@ -1,7 +1,9 @@
 import mongoose from "mongoose";
 import User from './User';
 import Product from "./Product";
+
 //Update BookmarkSchema
+
 const BookmarkSchema = new mongoose.Schema({
     userID: {
         type: mongoose.Schema.Types.ObjectId,
