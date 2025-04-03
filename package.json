@@ -44,6 +44,5 @@
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
     "@types/js-cookie": "^3.0.3",
-    "@types/jsonwebtoken": "^9.0.2"
   }
 }
